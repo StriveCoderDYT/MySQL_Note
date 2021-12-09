@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"[markdown]": {
+			"editor.formatOnSave": true,
+			"editor.renderWhitespace": "all",
+			"editor.quickSuggestions": {
+				"other": true,
+				"comments": true,
+				"strings": true
+			},
+			"editor.acceptSuggestionOnEnter": "on"
+		}
+	}
+	
+}
