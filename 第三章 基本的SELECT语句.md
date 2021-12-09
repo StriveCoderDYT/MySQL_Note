@@ -13,4 +13,4 @@ SQL语言在功能上主要分为如下3大类：
    - 主要的语句关键字包括==CREATE==、==DROP==、==ALTER==等
 -  **DML（Data Manipulation Language、数据操作语言）**，用于添加、删除、更新和查询数据库记录，并检查数据完整性。
    - 主要的语句关键字包括==INSERT==、==DELETE==、==UPDATE==、 ==SELECT==等。
-   - SELECT是SQ语言的基础，最为重要
+   - **SELECT是SQ语言的基础，最为重要**
