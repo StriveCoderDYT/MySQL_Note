@@ -48,4 +48,4 @@ SQL语言在功能上主要分为如下3大类：
 `SELECT 1;      #没有任何字句`
 `SELECT 9/2;    #没有任何字句`
 ### 3.1 代码
-![alt](https://link)
+![alt](image\chapter_04\2.jpg)
