@@ -49,3 +49,5 @@ SQL语言在功能上主要分为如下3大类：
 `SELECT 9/2;    #没有任何字句`
 ### 3.1 代码
 ![alt](image\chapter_04\2.jpg)
+## 4.课后练习
+![alt](https://link)
