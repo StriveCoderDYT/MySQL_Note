@@ -43,7 +43,7 @@ SQL语言在功能上主要分为如下3大类：
 在命令行客户端登录mysql,使用source指令导入
 `mysql> source d:/mysqldb.sql`
 基于具体的图形化界面的工具可以导入数据
-##3.基本的SELECT语句
-###3.0SELECT...
+## 3.基本的SELECT语句
+### 3.0SELECT...
 `SELECT 1;      #没有任何字句`
 `SELECT 9/2;    #没有任何字句`
